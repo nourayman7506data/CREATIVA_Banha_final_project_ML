@@ -209,5 +209,3 @@ streamlit run app.py
 Machine Learning & Data Science Student
 
 ---
-
-⭐ If you found this project useful, don't forget to give it a Star!
